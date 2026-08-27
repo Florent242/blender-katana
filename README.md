@@ -31,7 +31,7 @@ blender-katana/
 ## Remarques
 
 - Modèle de **blockout** : topologie et matériaux destinés à la pré-production / au greyboxing.
-- Rendu d'aperçu généré sous Blender (EEVEE, éclairage studio neutre).
+- Aperçu : capture écran réalisée par l.auteur dans Blender.
 - Les fichiers `*.blend1` de sauvegarde automatique sont exclus du versioning.
 
 ## Licence
